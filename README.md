@@ -18,3 +18,6 @@ Now iam here with the nano to edit the file from my computer, after that I am go
 This is so cool, i could upload my changes to the cloud. So iam happy now.
 
 Here's some other changes ..... Take it please.
+
+
+Hi it's szivrohamtest, i am triing to ruin your work here, how about it?
