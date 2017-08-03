@@ -9,3 +9,7 @@ Hey i am very new here. Please don't judge me if i'm doing something stupid. Man
 
 
 hey it's me again, i failed to modify this file from the desktop application. Now I am triing to modify it from the github website.
+
+
+Now iam here with the nano to edit the file from my computer, after that I am going to upload it via terminal....
+
