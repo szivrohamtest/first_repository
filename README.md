@@ -13,3 +13,8 @@ hey it's me again, i failed to modify this file from the desktop application. No
 
 Now iam here with the nano to edit the file from my computer, after that I am going to upload it via terminal....
 
+
+
+This is so cool, i could upload my changes to the cloud. So iam happy now.
+
+Here's some other changes ..... Take it please.
